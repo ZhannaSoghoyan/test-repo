@@ -1,1 +1,2 @@
-print("Goodby world") 
+<<<<<<< HEAD
+print("third version") 

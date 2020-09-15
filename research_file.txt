@@ -25,3 +25,5 @@ $ git config --global credential.helper store
 
 հրամանից հետո անելpush կամ pull  որից հետո պետք է գրել այն password -ը 
 կամ username -ը որը որ պետք է save անի
+
+

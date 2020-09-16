@@ -1,0 +1,6 @@
+
+1. git fetch --all
+
+remote ի բոլոր branch երը fetch  է անում
+
+
